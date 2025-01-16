@@ -29,3 +29,4 @@
 5. [Métodos de clase](05-clases/05-metodos-clase.py)
 6. [Propiedades privadas](05-clases/06-privados.py)
 7. [Decorator Property](05-clases/07-decorator-properties.py)
+8. [Métodos mágicos](05-clases/08-metodos-magicos.py)
