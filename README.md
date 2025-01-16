@@ -19,3 +19,13 @@
    1. [Operador Desempaquetador](04-tipos-avanzados/12-operador-desempaquetador.py)
 5. [Filas, (FiFo)](04-tipos-avanzados/13-fifo.py)
 6. [Pila, LiFo](04-tipos-avanzados/14-pila.py)
+
+## Clases
+
+1. [Explicación](05-clases/02-creando-clases.py)
+2. [Creando clases](05-clases/02-creando-clases.py)
+3. [Constructor](05-clases/03-constructor.py)
+4. [Propiedades](05-clases/04-properties.py)
+5. [Métodos de clase](05-clases/05-metodos-clase.py)
+6. [Propiedades privadas](05-clases/06-privados.py)
+7. [Decorator Property](05-clases/07-decorator-properties.py)
