@@ -16,9 +16,14 @@ class Perro:
     def hablar(self):
         print(f"{self.name} say: guau!")
 
+    def __del__(self):
+        print(f"Bye! 😞 {self.name} ")
+
 
 perro_01 = Perro("Chancho", 2)
 print(perro_01)  # This is a Perro. Name: Chancho, age: 2
 
 text = str(perro_01.__str__())
 print(text)  # This is a Perro. Name: Chancho, age: 2
+
+del perro_01  # Bye! 😞 Chancho
