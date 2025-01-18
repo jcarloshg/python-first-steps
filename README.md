@@ -34,7 +34,7 @@
 9. [Comparaciones](05-clases/09-comparaciones.py)
    1. [equal](05-clases/09-comparaciones.py)
    2. [not equal](05-clases/09-comparaciones.py)
-   3. [less than](05-clases/09-comparaciones.py)
+   3. [less than](05-clases/09-comparaciones.py)7
    4. [less or equal than](05-clases/09-comparaciones.py)
 10. [Contenedores](05-clases/10-contenedores.py)
 11. [Herencia](05-clases/11-herencia.py)
@@ -45,3 +45,10 @@
 16. [Polimorfismo](05-clases/16-polimorfismo.py)
     1. [Duck typing](05-clases/16-polimorfismo.py)
 17. [Extender tipos nativos](05-clases/17-extender-tipos.py)
+
+## Excepciones
+
+1. [Exception](06-excepciones/01-excepcion.py)
+2. [Tipos](06-excepciones/02-tipos-errores.py)
+3. [Else finally](06-excepciones/03-else-finally.py)
+4. [Excepciones customizables](06-excepciones/05-errores-custom.py)
