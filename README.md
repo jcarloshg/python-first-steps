@@ -52,3 +52,17 @@
 2. [Tipos](06-excepciones/02-tipos-errores.py)
 3. [Else finally](06-excepciones/03-else-finally.py)
 4. [Excepciones customizables](06-excepciones/05-errores-custom.py)
+
+## Módulos
+
+1. [Import](07-modulos/app.py)
+2. Carpeta \_\_pycache\_\_
+   1. Guarda las importaciones en cache para volver la carga mas rápida
+   2. Toma en cuenta la fechas de los archivos creados/modificados para decidir cuando hacer uns re compilación
+   3. Los nombre de los archivos están dados por el nombre del {nombre_archivo.compilador_usado.extención_cache} ![Cache](DOCS/01-modulos.png)
+3. [Paquetes](07-modulos/02-paquetes/app.py)
+4. [Sub paquetes](07-modulos/03-sub-paquetes/app.py)
+5. [referencia a u sub paquete](07-modulos/04-reference-subpaquete/app.py)
+   1. [\_\_dir\_\_](07-modulos/04-reference-subpaquete/app.py)
+6. [Nombres dinámicos](07-modulos/04-reference-subpaquete/app.py)
+7. [Importaciones con condición](07-modulos/05-nombres-dinamicos/app.py)
