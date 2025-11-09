@@ -16,3 +16,8 @@ pipx install requests
 pipx install pipenv
 pipx ensurepath
 ```
+
+```zsh
+pipenv graph
+pipenv install 'requests==2.10.*'
+```
